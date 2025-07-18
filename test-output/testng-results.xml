@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-10T14:49:39 EEST" name="Suite" finished-at="2025-06-10T14:49:39 EEST" duration-ms="77">
+    <groups>
+    </groups>
+    <test started-at="2025-06-10T14:49:39 EEST" name="Test" finished-at="2025-06-10T14:49:39 EEST" duration-ms="77">
+      <class name="Intro.test3">
+        <test-method signature="dWebloginCarLoanHome(java.lang.String)[pri:0, instance:Intro.test3@21be3395]" started-at="2025-06-10T14:49:39 EEST" name="dWebloginCarLoanHome" finished-at="2025-06-10T14:49:39 EEST" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qaclickacademy.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dWebloginCarLoanHome -->
+        <test-method signature="eMobileLoginCarLoanHome(java.lang.String,java.lang.String)[pri:0, instance:Intro.test3@21be3395]" started-at="2025-06-10T14:49:39 EEST" name="eMobileLoginCarLoanHome" data-provider="getData" finished-at="2025-06-10T14:49:39 EEST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firstsetusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eMobileLoginCarLoanHome -->
+        <test-method signature="eMobileLoginCarLoanHome(java.lang.String,java.lang.String)[pri:0, instance:Intro.test3@21be3395]" started-at="2025-06-10T14:49:39 EEST" name="eMobileLoginCarLoanHome" data-provider="getData" finished-at="2025-06-10T14:49:39 EEST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[secondsetusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secong password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eMobileLoginCarLoanHome -->
+        <test-method signature="eMobileLoginCarLoanHome(java.lang.String,java.lang.String)[pri:0, instance:Intro.test3@21be3395]" started-at="2025-06-10T14:49:39 EEST" name="eMobileLoginCarLoanHome" data-provider="getData" finished-at="2025-06-10T14:49:39 EEST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[thirdsetusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[thirs password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eMobileLoginCarLoanHome -->
+      </class> <!-- Intro.test3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
